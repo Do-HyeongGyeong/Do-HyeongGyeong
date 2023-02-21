@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-HyeongGyeong&show_icons=true)<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Do-HyeongGyeong"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Do-HyeongGyeong&show_icons=true&theme=dark)<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Do-HyeongGyeong&theme=dark"/>
 
 
 
